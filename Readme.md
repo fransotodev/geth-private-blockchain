@@ -1,4 +1,4 @@
-# 2 Nodes Ethereum private blockchain
+# 2 Nodes Ethereum Private Blockchain
 
 This is a ready to use private blockchain of 2 nodes. You can choose between a Proof of Work algorithm (default dificulty 0x100 == 256) or a Proof of Authority algorithm (default time between blocks = 5 seconds).
 
